@@ -77,5 +77,5 @@ PySpin cannot be installed via pip and requires manual installation from FLIR.
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd flir-camera-control-pyqt6
+   git clone https://github.com/inmert/Spin
+   cd Spin
