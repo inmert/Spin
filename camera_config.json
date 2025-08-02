@@ -1,0 +1,27 @@
+{
+  "camera": {
+    "resolution": "VGA",
+    "frame_rate": 30.0,
+    "exposure_time": 10000.0,
+    "gain": 0.0,
+    "auto_exposure": true
+  },
+  "gui": {
+    "window_width": 1400,
+    "window_height": 900,
+    "update_interval_ms": 15,
+    "zoom_step": 0.2,
+    "max_zoom": 5.0,
+    "theme": "default"
+  },
+  "recording": {
+    "codec": "XVID",
+    "fps": 30.0,
+    "quality": 80,
+    "auto_timestamp": true,
+    "max_duration_sec": 300.0
+  },
+  "save_directory": "./snapshots",
+  "recording_directory": "./recordings",
+  "log_level": "INFO"
+}
